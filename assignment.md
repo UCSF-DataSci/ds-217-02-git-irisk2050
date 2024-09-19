@@ -21,9 +21,9 @@ Demonstrate your understanding of git, GitHub, Markdown, and basic Python enviro
 3. Python environments & packages
 	- [x] Create a virtual environment
 	- [x] Activate the virtual environment
-	- Add the directory of the virtual environment to `.gitignore` (commit to repo)
-	- Use `pip install` or `python -m pip install` to install a package (okay to use the example from lecture)
-	- Take a screenshot of the installation
+	- [x] Add the directory of the virtual environment to `.gitignore` (commit to repo)
+	- [x] Use `pip install` or `python -m pip install` to install a package (okay to use the example from lecture)
+	- [x] Take a screenshot of the installation
 	- Add the screenshot to your assignment repository
 4. Markdown
 	- Add the screenshot image to your readme.md
