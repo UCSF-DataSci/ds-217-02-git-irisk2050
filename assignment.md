@@ -24,7 +24,7 @@ Demonstrate your understanding of git, GitHub, Markdown, and basic Python enviro
 	- [x] Add the directory of the virtual environment to `.gitignore` (commit to repo)
 	- [x] Use `pip install` or `python -m pip install` to install a package (okay to use the example from lecture)
 	- [x] Take a screenshot of the installation
-	- Add the screenshot to your assignment repository
+	- [x] Add the screenshot to your assignment repository
 4. Markdown
 	- Add the screenshot image to your readme.md
 	- Add a meme you like from the internet to readme.md
