@@ -9,7 +9,7 @@ Demonstrate your understanding of git, GitHub, Markdown, and basic Python enviro
 1. `git`
 	- [x] Clone your forked repository to your local machine
 	- [x] Create and switch to a new branch
-	- Create a `readme.md` file in the new branch
+	- [x] Create a `readme.md` file in the new branch
 	- [x] Add a copy of your python file from assignment 1 to the repo
 	- Stage and commit the files with a commit message
 	- Merge your new branch back with the `main` branch
