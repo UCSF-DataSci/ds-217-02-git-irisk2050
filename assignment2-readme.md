@@ -27,3 +27,7 @@ Here is the link to the [python website](https://www.python.org)
 # Screenshot of python package installation in virtual environment
 
 ![My screenshot](/assignment2-screenshot.png "Pandas installation")
+
+# Meme from the internet
+
+![Github meme](https://res.cloudinary.com/practicaldev/image/fetch/s--NUSRQ-3J--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.redd.it/5iphhycu0io11.png)

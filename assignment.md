@@ -26,7 +26,7 @@ Demonstrate your understanding of git, GitHub, Markdown, and basic Python enviro
 	- [x] Take a screenshot of the installation
 	- [x] Add the screenshot to your assignment repository
 4. Markdown
-	- Add the screenshot image to your readme.md
+	- [x] Add the screenshot image to your readme.md
 	- Add a meme you like from the internet to readme.md
 	- Commit and push changes back to GitHub
 5. Check your work on GitHub, you should now have:
