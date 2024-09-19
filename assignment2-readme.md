@@ -26,4 +26,4 @@ Here is the link to the [python website](https://www.python.org)
 
 # Screenshot of python package installation in virtual environment
 
-![My screenshot](/Users/iriskim/Desktop/ds-217-02-git-irisk2050/assignment2-screenshot.png "Pandas installation")
+![My screenshot](/assignment2-screenshot.png "Pandas installation")
