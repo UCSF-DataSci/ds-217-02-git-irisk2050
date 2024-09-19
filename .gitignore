@@ -1,0 +1,8 @@
+# Ignore this (MacOS) filename
+.DS_Store
+
+# Ignore these folders
+venv/
+
+# Ignore these file paths
+*.venv

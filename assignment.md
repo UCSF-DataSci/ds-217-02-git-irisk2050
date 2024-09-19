@@ -19,8 +19,8 @@ Demonstrate your understanding of git, GitHub, Markdown, and basic Python enviro
 	- [x] Use formatting to separate sections using `# Header`'s
 	- [x] Add a link to the official Python website (https://www.python.org)
 3. Python environments & packages
-	- Create a virtual environment
-	- Activate the virtual environment
+	- [x] Create a virtual environment
+	- [x] Activate the virtual environment
 	- Add the directory of the virtual environment to `.gitignore` (commit to repo)
 	- Use `pip install` or `python -m pip install` to install a package (okay to use the example from lecture)
 	- Take a screenshot of the installation
