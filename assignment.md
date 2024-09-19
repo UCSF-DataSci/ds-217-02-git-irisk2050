@@ -11,13 +11,13 @@ Demonstrate your understanding of git, GitHub, Markdown, and basic Python enviro
 	- [x] Create and switch to a new branch
 	- [x] Create a `readme.md` file in the new branch
 	- [x] Add a copy of your python file from assignment 1 to the repo
-	- Stage and commit the files with a commit message
-	- Merge your new branch back with the `main` branch
-	- Push your changes to GitHub
+	- [x] Stage and commit the files with a commit message
+	- [x] Merge your new branch back with the `main` branch
+	- [x] Push your changes to GitHub
 2. Markdown
-	- Fill in your `readme.md` with the requested information from assignment 1
-	- Use formatting to separate sections using `# Header`'s
-	- Add a link to the official Python website (https://www.python.org)
+	- [x] Fill in your `readme.md` with the requested information from assignment 1
+	- [x] Use formatting to separate sections using `# Header`'s
+	- [x] Add a link to the official Python website (https://www.python.org)
 3. Python environments & packages
 	- Create a virtual environment
 	- Activate the virtual environment
