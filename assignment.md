@@ -27,10 +27,10 @@ Demonstrate your understanding of git, GitHub, Markdown, and basic Python enviro
 	- [x] Add the screenshot to your assignment repository
 4. Markdown
 	- [x] Add the screenshot image to your readme.md
-	- Add a meme you like from the internet to readme.md
-	- Commit and push changes back to GitHub
+	- [x] Add a meme you like from the internet to readme.md
+	- [x] Commit and push changes back to GitHub
 5. Check your work on GitHub, you should now have:
-	- A single branch, `main`
-	- Python file from assignment 1
-	- `.gitignore` with at least one entry for the virtual environment folder
-	- `readme.md` with assignment 1 content, plus images
+	- [x] A single branch, `main`
+	- [x] Python file from assignment 1
+	- [x] `.gitignore` with at least one entry for the virtual environment folder
+	- [x] `readme.md` with assignment 1 content, plus images
